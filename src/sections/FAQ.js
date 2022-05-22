@@ -64,7 +64,7 @@ const FAQ = () => {
             <div className="home_faq_inner">
               <div className="faq_1 ac-title" data-in="#tab3">
                 <h6 className="accordion">
-                  Which blockchain was Pride Pixies NFT created on ?
+                  Which blockchain was Pride Pixies NFT created on?
                 </h6>
                 <div className="panel accordian-para acc-show" id="tab3">
                   <p>
@@ -103,12 +103,14 @@ const FAQ = () => {
                 <div className="panel accordian-para acc-show" id="tab5">
                   <p>
                     You can Mint / Buy a Pride Pixies NFT on our website
-                    https://pridepixies.com/ blicking on the MINT w/ MATIC
-                    button or the MINT w/ debt/credit card button where pre sale
-                    Minting will be $185 and Public sales on secondary market
-                    exchanges such as Opensea, Rarible and Moovmint.io will be
-                    $250 or more, there will only be 10,557 Pride Pixies NFTs
-                    ever to be created.
+                    <a href="https://pridepixies.com/" target="_blank">
+                      https://pridepixies.com/
+                    </a>{" "}
+                    blicking on the MINT w/ MATIC button or the MINT w/
+                    debt/credit card button where pre sale Minting will be $185
+                    and Public sales on secondary market exchanges such as
+                    Opensea, Rarible and Moovmint.io will be $250 or more, there
+                    will only be 10,557 Pride Pixies NFTs ever to be created.
                   </p>
                 </div>
               </div>
@@ -121,7 +123,7 @@ const FAQ = () => {
                 <div className="panel accordian-para acc-show" id="tab6">
                   <p>
                     Pride Pixies NFT will start minting for pre sale on June 1st
-                    during 2022 Pride Month. A public sale will be held 2 weeks
+                    during 2023 Pride Month. A public sale will be held 2 weeks
                     later on secondary market exchanges such as Opensea, Rarible
                     and Moovmint.io will be $250 or more, there will only be
                     10,557 Pride Pixies NFTs ever to be created.
@@ -140,7 +142,7 @@ const FAQ = () => {
                     the NFT to your smart chain wallet such as Coinbase wallet
                     or Metamask wallet. <br />
                     You can buy directly from our website with MATIC crypto
-                    currency but you will nee to self custody by having a
+                    currency but you will need to self custody by having a
                     Coinbase Wallet or a Metamask wallet.
                   </p>
                 </div>
@@ -176,7 +178,12 @@ const FAQ = () => {
                     <br />
                     You can also click on this link below to view our verified
                     contract on the blockchain <br />
-                    https://polygonscan.com/address/0x91E416B22191aa658c2e5D77E8a278f47d103d4f
+                    <a
+                      href="https://polygonscan.com/address/0x91E416B22191aa658c2e5D77E8a278f47d103d4f"
+                      target="_blank"
+                    >
+                      https://polygonscan.com/address/0x91E416B22191aa658c2e5D77E8a278f47d103d4f
+                    </a>
                     <br />
                   </p>
                 </div>

@@ -56,7 +56,7 @@ const ProjectBenefits = () => {
               <h3>HOW TO BUY</h3>
             </div>
             <p>
-              Pride Pixies will be minting starting June 1st, 2022 (PRIDE Month!
+              Pride Pixies will be minting starting June 1st, 2023 (PRIDE Month!
               Yay!) but don’t worry, when it ends you can still get one on
               Opensea or Moovmint. While our Pride Pixies may be art, they’re
               worth so much more. Always remember, the price for NFTS may go up

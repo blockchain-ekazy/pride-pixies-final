@@ -13,7 +13,7 @@ const RoadMap = () => {
           {/* <p>
             <em>ROAD</em> MAP
           </p> */}
-          <p>Our plans moving forward into 2022.</p>
+          <p>Our plans moving forward into 2023.</p>
         </div>
         <div className="home_road_map_flex">
           <div className="home_road_map_inner">
@@ -82,7 +82,7 @@ const RoadMap = () => {
               <div className="home_road_map_text">
                 <p>
                   <span className="pink">Startup:</span> Pride Pixie Pre Sale
-                  and Minting starting June 1st 2022
+                  and Minting starting June 1st 2023
                 </p>
               </div>
             </div>
@@ -151,7 +151,7 @@ const RoadMap = () => {
                 <br />
                 <p>
                   <span className="pink">Startup:</span> Pride Pixie Pre Sale
-                  and Minting starting June 1st 2022
+                  and Minting starting June 1st 2023
                 </p>
                 <br />
                 <p>

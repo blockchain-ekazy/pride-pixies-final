@@ -253,7 +253,7 @@ body {
   left: 0;
   right: 0;
   margin: 0 auto;
-  z-index: 1 ;
+  z-index: 1;
 }
 .header_flex {
   display: flex;
@@ -1084,7 +1084,15 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  z-index: - 1;
+  /* z-index: -1; */
+}
+.Mint p {
+  font-size: 24px !important;
+  font-weight: 700 !important;
+  font-family: "Poppins" !important;
+}
+.crossmintImg-0-2-2 {
+  display: none;
 }
 .home_faq_flex {
   display: grid;
@@ -3482,8 +3490,6 @@ ul {
   padding: 10px;
 }
 
-
-
 h1 {
   text-align: center;
   font-size: 35px;
@@ -3513,11 +3519,12 @@ h2 {
   transform: translate(-50%, -50%);
   /* background-color: black; */
   color: #fff;
-  z-index: 100 ;
+  z-index: 100;
 }
 
-h2, .box p {
-margin: 0 20px;
+h2,
+.box p {
+  margin: 0 20px;
 }
 
 .close {
@@ -3537,7 +3544,7 @@ margin: 0 20px;
   cursor: pointer;
   text-decoration: none;
 }
-.BoxSha{
+.BoxSha {
   background-color: #1a1a25;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   transition: 0.3s;
@@ -3545,29 +3552,28 @@ margin: 0 20px;
 .BoxSha h3 {
   font-size: 21px;
   font-weight: 700;
-  color:  #ff0ddb !important;
+  color: #ff0ddb !important;
 }
-.BoxSha:hover{
+.BoxSha:hover {
   transform: translate(0, -10px);
   box-shadow: rgb(0, 0, 0) 0px 5px 35px;
 }
-.BoxTxt{
+.BoxTxt {
   color: white;
-  font-size: 20px
+  font-size: 20px;
 }
-.Anc{
+.Anc {
   text-decoration: none !important;
 }
-.boxImg{
+.boxImg {
   object-fit: cover;
   min-height: 245px;
 }
-.BlogH{
+.BlogH {
   padding-top: 200px;
 }
 @media only screen and(max-width:600px) {
-  .BlogH{
+  .BlogH {
     font-size: 300px !important;
   }
-  
 }

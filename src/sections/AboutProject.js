@@ -27,7 +27,7 @@ const AboutProject = () => {
             {/* </p> */}
             <Mintbtn />
             <CrossmintPayButton
-              className="mx-auto btn"
+              className="mx-auto btn Mint py-2"
               collectionTitle="Pride Pixies NFT"
               collectionDescription="Created by Taylor Diamond-Vizcaino Founder of True Dream Vision who is the first Female, LatinX, LGBTQ+ activist founder in blockchain. The world of Pride Pixies is a community made of 10,557 unique handmade and randomly Generated NFTs. They’re colorful, vibrant, loud and proud. They are the most badass, female-centric, women's empowerment, inclusive & symbolic NFTs. Pride Pixies came to True Dream Vision from childhood. They were the physical and spiritual embodiment of Rebels. Thinking about our ideal perception of women in society is what everything these Pixies are protesting. When you see a Pride Pixie you better believe she/he/they/them agrees too. True Dream Vision makes powerful NFTs to support the cause focused on female empowerment, LGBTQ+, and Human Rights activism. We are donating 5% of our profits to Human Rights Campaign Foundation (HRC.org) and well as (Ofrezco.org) to support education for underprivileged children in 3rd world countries and women in tech."
               collectionPhoto="https://lh3.googleusercontent.com/TE4XllN-flrFqJ9vpBu8b2blQVSJ5JUk-o3yPLFWwS0mooJm0fHwMmkwTDVxmvObbKECRh4YLK5OMt1q4n6nGpz-yZ24snQc2xWjnw=s1300"
