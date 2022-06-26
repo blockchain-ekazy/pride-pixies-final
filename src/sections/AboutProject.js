@@ -138,6 +138,69 @@ const AboutProject = () => {
             </div>
           </div>
         </div>
+        <div className="asseenon my-5 pt-5">
+          <img src="./img/asseenon.png" />
+        </div>
+        <div className="container">
+          <div className="row align-items-center justify-content-center text-center">
+            <div className="col-md-3">
+              <a
+                href="https://finance.yahoo.com/news/defi-platform-nft-collection-focuses-110000329.html?guccounter=1"
+                target="_blank"
+              >
+                <img src="./img/yahoo.png" />
+              </a>
+            </div>
+            <div className="col-md-3">
+              <a
+                href="https://www.marketwatch.com/press-release/artist-responds-to-floridas-dont-say-gay-bill-with-new-nft-collection-2022-05-03?mod=search_headline"
+                target="_blank"
+              >
+                <img src="./img/marketwatch.png" />
+              </a>
+            </div>
+            <div className="col-md-3">
+              <a
+                href="https://www.digitaljournal.com/pr/pride-pixies-highlights-inclusivity-and-representation-in-the-nft-community"
+                target="_blank"
+              >
+                <img src="./img/Digital-Journal.png" />
+              </a>
+            </div>
+            <div className="col-md-3">
+              <a
+                href="https://nftfactory.buzzsprout.com/1953668/10629253"
+                target="_blank"
+              >
+                <img src="./img/nft-factory.png" />
+              </a>
+            </div>
+            <div className="col-md-3">
+              <a
+                href="https://coinducted.com/pride-pixies-shows-that-change-is-possible-with-nfts/"
+                target="_blank"
+              >
+                <img src="./img/coinducted.png" />
+              </a>
+            </div>
+            <div className="col-md-3">
+              <a
+                href="https://www.bignewsnetwork.com/news/272541923/pride-pixies-shows-that-change-is-possible-with-nfts"
+                target="_blank"
+              >
+                <img src="./img/big-news-network.png" />
+              </a>
+            </div>
+            <div className="col-md-3">
+              <a
+                href="https://cryptoddy.com/make-way-for-inclusiveness-and-equality-the-pride-pixies-nft-collection/"
+                target="_blank"
+              >
+                <img src="./img/cryptoddy.png" />
+              </a>
+            </div>
+          </div>
+        </div>
       </div>
     </>
   );

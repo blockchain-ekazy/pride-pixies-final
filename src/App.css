@@ -575,7 +575,7 @@ body {
   align-items: center;
   justify-content: center;
   border: 2px solid #ff0ddb;
-  width: 382px;
+  width: 340px;
   margin: 20px auto 0;
 }
 .home_welcome .btn:hover {
@@ -3576,4 +3576,17 @@ h2,
   .BlogH {
     font-size: 300px !important;
   }
+}
+.asseenon img {
+  width: 650px;
+  max-width: 95%;
+  margin: auto;
+  display: block;
+}
+.asseenon + div img {
+  height: 130px;
+  object-fit: contain;
+  display: block;
+  margin: 25px auto;
+  padding: 10px;
 }

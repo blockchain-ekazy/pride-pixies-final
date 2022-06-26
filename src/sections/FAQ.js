@@ -14,8 +14,10 @@ const FAQ = () => {
           </div>
           <div className="home_faq_flex">
             <div className="home_faq_inner">
-              <div className="faq_1 ac-title" data-in="#tab1">
-                <h6 className="accordion">What is an NFT ?</h6>
+              <div className="faq_1 ac-title">
+                <h6 className="accordion" data-in="#tab1">
+                  What is an NFT ?
+                </h6>
                 <div className="panel accordian-para acc-show" id="tab1">
                   <p>
                     An NFT is a non-fungible token, NFT’s are a form of
@@ -30,8 +32,10 @@ const FAQ = () => {
               </div>
             </div>
             <div className="home_faq_inner">
-              <div className="faq_1 ac-title" data-in="#tab2">
-                <h6 className="accordion">What is a blockchain?</h6>
+              <div className="faq_1 ac-title">
+                <h6 className="accordion" data-in="#tab2">
+                  What is a blockchain?
+                </h6>
                 <div className="panel accordian-para acc-show" id="tab2">
                   <p>
                     Your grandma thinks it’s a scam and you’ve decided that
@@ -62,8 +66,8 @@ const FAQ = () => {
               </div>
             </div>
             <div className="home_faq_inner">
-              <div className="faq_1 ac-title" data-in="#tab3">
-                <h6 className="accordion">
+              <div className="faq_1 ac-title">
+                <h6 className="accordion" data-in="#tab3">
                   Which blockchain was Pride Pixies NFT created on?
                 </h6>
                 <div className="panel accordian-para acc-show" id="tab3">
@@ -81,8 +85,8 @@ const FAQ = () => {
               </div>
             </div>
             <div className="home_faq_inner">
-              <div className="faq_1 ac-title" data-in="#tab4">
-                <h6 className="accordion">
+              <div className="faq_1 ac-title">
+                <h6 className="accordion" data-in="#tab4">
                   Is Pride Pixies NFT an ERC - 721 token?
                 </h6>
                 <div className="panel accordian-para acc-show" id="tab4">
@@ -96,8 +100,8 @@ const FAQ = () => {
               </div>
             </div>
             <div className="home_faq_inner">
-              <div className="faq_1 ac-title" data-in="#tab5">
-                <h6 className="accordion">
+              <div className="faq_1 ac-title">
+                <h6 className="accordion" data-in="#tab5">
                   Where can I Mint/Buy a Pride Pixies NFT?
                 </h6>
                 <div className="panel accordian-para acc-show" id="tab5">
@@ -116,8 +120,8 @@ const FAQ = () => {
               </div>
             </div>
             <div className="home_faq_inner">
-              <div className="faq_1 ac-title" data-in="#tab6">
-                <h6 className="accordion">
+              <div className="faq_1 ac-title">
+                <h6 className="accordion" data-in="#tab6">
                   When does Pride Pixes NFT minting date start?
                 </h6>
                 <div className="panel accordian-para acc-show" id="tab6">
@@ -133,8 +137,10 @@ const FAQ = () => {
             </div>
 
             <div className="home_faq_inner">
-              <div className="faq_1 ac-title" data-in="#tab7">
-                <h6 className="accordion">How do I buy a Pride Pixies NFT?</h6>
+              <div className="faq_1 ac-title">
+                <h6 className="accordion" data-in="#tab7">
+                  How do I buy a Pride Pixies NFT?
+                </h6>
                 <div className="panel accordian-para acc-show" id="tab7">
                   <p>
                     You can use your debt/credit card and your NFT will be
@@ -150,8 +156,8 @@ const FAQ = () => {
             </div>
 
             <div className="home_faq_inner">
-              <div className="faq_1 ac-title" data-in="#tab8">
-                <h6 className="accordion">
+              <div className="faq_1 ac-title">
+                <h6 className="accordion" data-in="#tab8">
                   Does Pride Pixies NFT charge any fees to purchase?
                 </h6>
                 <div className="panel accordian-para acc-show" id="tab8">
@@ -167,8 +173,8 @@ const FAQ = () => {
             </div>
 
             <div className="home_faq_inner">
-              <div className="faq_1 ac-title" data-in="#tab9">
-                <h6 className="accordion">
+              <div className="faq_1 ac-title">
+                <h6 className="accordion" data-in="#tab9">
                   Where can I find the Verified Contract for Pride Pixies NFT?
                 </h6>
                 <div className="panel accordian-para acc-show" id="tab9">
@@ -191,8 +197,10 @@ const FAQ = () => {
             </div>
 
             <div className="home_faq_inner">
-              <div className="faq_1 ac-title" data-in="#tab10">
-                <h6 className="accordion">What is True Dream Vision?</h6>
+              <div className="faq_1 ac-title">
+                <h6 className="accordion" data-in="#tab10">
+                  What is True Dream Vision?
+                </h6>
                 <div className="panel accordian-para acc-show" id="tab10">
                   <p>
                     True Dream Vision is the creator of Pride Pixies NFt and
@@ -212,8 +220,8 @@ const FAQ = () => {
             </div>
 
             <div className="home_faq_inner">
-              <div className="faq_1 ac-title" data-in="#tab11">
-                <h6 className="accordion">
+              <div className="faq_1 ac-title">
+                <h6 className="accordion" data-in="#tab11">
                   How can I be a part of the Pride Pixies NFT community?
                 </h6>
                 <div className="panel accordian-para acc-show" id="tab11">
@@ -228,8 +236,8 @@ const FAQ = () => {
             </div>
 
             <div className="home_faq_inner">
-              <div className="faq_1 ac-title" data-in="#tab12">
-                <h6 className="accordion">
+              <div className="faq_1 ac-title">
+                <h6 className="accordion" data-in="#tab12">
                   Where can I find Pride Pixies NFT in the news?
                 </h6>
 
